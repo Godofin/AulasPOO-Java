@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="vendas.Carga"/>
+<fullyQualifiedTypeName name="diretoria.Professor"/>
+<fullyQualifiedTypeName name="estoque.Produto"/>
+<fullyQualifiedTypeName name="rh.Funcionario"/>
+<fullyQualifiedTypeName name="rh.pessoal.Funcionario"/>
+<fullyQualifiedTypeName name="motorista.Corrida"/>
+<fullyQualifiedTypeName name="comercial.produtos.Peca"/>
+<fullyQualifiedTypeName name="pessoal.crm.Cliente"/>
+<fullyQualifiedTypeName name="pessoal.crm.Vendedor"/>
+<fullyQualifiedTypeName name="rh.Marinheiro"/>
+<fullyQualifiedTypeName name="logistica.Container"/>
+<fullyQualifiedTypeName name="relacionamento.cadastros.internet.Email"/>
+</qualifiedTypeNameHistroy>

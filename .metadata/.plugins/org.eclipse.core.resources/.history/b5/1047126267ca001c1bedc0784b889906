@@ -1,0 +1,7 @@
+
+public class Vendedor {
+private double comissao;
+private double total;
+
+
+}

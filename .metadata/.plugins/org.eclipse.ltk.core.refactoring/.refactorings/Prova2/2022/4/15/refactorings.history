@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Prova2&apos;&#x0D;&#x0A;- Original project: &apos;Prova2&apos;&#x0D;&#x0A;- Original element: &apos;crm.relacionamento.Cadastro.java&apos;" description="Delete element" element1="/src&lt;crm.relacionamento{Cadastro.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1649112524872" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,6 @@
+
+public class Disciplina {
+private long numero;
+private String nome;
+
+}

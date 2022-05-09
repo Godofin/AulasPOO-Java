@@ -1,0 +1,26 @@
+
+public class Principal {
+Gerente g;
+Funcionario f;
+Vendedor v;
+
+	public void entraDados() {
+		f = new Funcionario();
+		f.setCtps(4521250);
+		
+		
+		
+		g = new Gerente();
+		g.setNome("Marcio");
+		g.setCtps(400389);
+		g.setSalario(5000);
+		g.setAdcional(2000);
+		
+		
+	}
+	
+	public void mostraDados() {
+		
+	}
+
+}

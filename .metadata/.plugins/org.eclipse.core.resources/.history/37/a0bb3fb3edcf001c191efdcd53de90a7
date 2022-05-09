@@ -1,0 +1,11 @@
+
+public class PosGraduacao {
+private double artigo;
+private double seminario;
+private double projeto;
+
+public double calculaMedia() {
+	double media = (artigo*0.3) + (seminario*0.3) + (projeto*0.4);
+	return media;
+}
+}

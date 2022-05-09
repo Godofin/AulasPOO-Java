@@ -1,0 +1,6 @@
+
+public class Principal {
+Aluno a;
+Curso c;
+Disciplina d1, d2, d3;
+}

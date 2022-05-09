@@ -1,0 +1,10 @@
+
+public class Graduacao extends Estudante {
+private double prova;
+private double trabalho;
+
+public double calculaMedia() {
+	double media = (prova*0.6) + (trabalho*0.4);
+	return media;
+}
+}
