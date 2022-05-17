@@ -1,7 +1,0 @@
-
-public class Aluno {
-private long ra;
-private String nome;
-private Disciplina disciplina[];
-private Curso curso;
-}

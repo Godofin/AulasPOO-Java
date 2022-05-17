@@ -1,7 +1,0 @@
-
-public class Caminhao {
-private String placa;
-private int eixos;
-private Motorista motorista;
-private Carga carga[];
-}
